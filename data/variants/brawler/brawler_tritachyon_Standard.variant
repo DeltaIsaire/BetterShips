@@ -1,0 +1,33 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "brawler_tritachyon",
+    "hullMods": [
+        "advancedoptics",
+        "targetingunit",
+        "fluxbreakers",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "brawler_tritachyon_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "gravitonbeam",
+                "WS 002": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "taclaser",
+                "WS 004": "taclaser"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 2,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "ox",
+    "hullMods": ["insulatedengine"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "ox_Standard",
+    "weaponGroups": []
+}

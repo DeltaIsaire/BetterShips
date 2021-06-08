@@ -1,0 +1,48 @@
+{
+    "displayName": "Commandeered",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "brawler",
+    "hullMods": [
+        "fluxdistributor",
+        "fluxcoil",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "brawler_Starting",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightag",
+                "WS 002": "lightag"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "railgun",
+                "WS 004": "railgun"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightag",
+                "WS 002": "lightag"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "railgun",
+                "WS 004": "railgun"
+            }
+        }
+    ]
+}

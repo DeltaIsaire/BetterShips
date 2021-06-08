@@ -1,0 +1,34 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "wayfarer",
+    "hullMods": [
+        "expanded_cargo_holds",
+        "fluxdistributor",
+        "reinforcedhull"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "wayfarer_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightdualac",
+                "WS 002": "lightag",
+                "WS 004": "ioncannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "vulcan",
+                "WS 005": "vulcan",
+                "WS 006": "vulcan"
+            }
+        }
+    ]
+}

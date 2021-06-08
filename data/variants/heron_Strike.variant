@@ -1,0 +1,39 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 15,
+    "fluxVents": 13,
+    "goalVariant": true,
+    "hullId": "heron",
+    "hullMods": [
+        "targetingunit",
+        "expanded_deck_crew",
+        "frontemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "heron_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "hveldriver"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lrpdlaser",
+                "WS 002": "lrpdlaser",
+                "WS 003": "lrpdlaser",
+                "WS 004": "lrpdlaser",
+                "WS 009": "lrpdlaser",
+                "WS 010": "lrpdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "dagger_wing",
+        "dagger_wing",
+        "dagger_wing"
+    ]
+}

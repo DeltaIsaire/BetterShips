@@ -1,0 +1,34 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 10,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "shade",
+    "hullMods": ["hardened_subsystems"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "shade_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "amblaster",
+                "WS 005": "amblaster"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "sabot",
+                "WS 002": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "pdburst"}
+        }
+    ]
+}

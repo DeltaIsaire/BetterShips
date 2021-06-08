@@ -1,0 +1,64 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 10,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "aurora",
+    "hullMods": [
+        "targetingunit",
+        "advancedoptics",
+        "turretgyros",
+        "stabilizedshieldemitter",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "aurora_FS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "ionbeam"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "gravitonbeam",
+                "WS 008": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "taclaser",
+                "WS 011": "taclaser",
+                "WS 012": "taclaser",
+                "WS 013": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "taclaser",
+                "WS 004": "taclaser",
+                "WS 005": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "heavyburst"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdburst",
+                "WS 002": "pdburst"
+            }
+        }
+    ]
+}

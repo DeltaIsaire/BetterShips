@@ -1,0 +1,36 @@
+{
+    "displayName": "EMP Hardened",
+    "fluxCapacitors": 1,
+    "fluxVents": 10,
+    "hullId": "cerberus",
+    "hullMods": [
+        "fluxbreakers",
+        "armoredweapons",
+        "insulatedengine",
+        "fluxdistributor",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "cerberus_Hardened",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "heavymauler"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "lightdualac"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "vulcan",
+                "WS 002": "vulcan"
+            }
+        }
+    ]
+}

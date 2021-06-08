@@ -1,0 +1,28 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "vigilance",
+    "hullMods": [
+        "magazines",
+        "eccm",
+        "fluxbreakers",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "vigilance_FS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "ionbeam"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "pilum"}
+        }
+    ]
+}

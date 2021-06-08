@@ -1,0 +1,24 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 18,
+    "fluxVents": 6,
+    "goalVariant": true,
+    "hullId": "nebula",
+    "hullMods": [
+        "insulatedengine",
+        "unstable_injector"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "nebula_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 001": "lightdualmg",
+            "WS 002": "lightdualmg",
+            "WS 003": "lightdualmg",
+            "WS 004": "lightdualmg"
+        }
+    }]
+}

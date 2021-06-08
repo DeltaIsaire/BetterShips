@@ -1,0 +1,51 @@
+{
+    "displayName": "Close Support",
+    "fluxCapacitors": 24,
+    "fluxVents": 30,
+    "hullId": "falcon_d",
+    "hullMods": [
+        "dedicated_targeting_core",
+        "fluxdistributor",
+        "fluxbreakers",
+        "armoredweapons"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "falcon_d_CS",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heavyac",
+                "WS 008": "heavyac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "heatseeker",
+                "WS 002": "heatseeker"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+                "WS 006": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 009": "pdlaser",
+                "WS 010": "pdlaser"
+            }
+        }
+    ]
+}

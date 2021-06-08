@@ -1,0 +1,50 @@
+{
+    "displayName": "Fighter Support",
+    "fluxCapacitors": 13,
+    "fluxVents": 20,
+    "hullId": "enforcer",
+    "hullMods": [
+        "converted_hangar",
+        "targetingunit",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "enforcer_Fighter_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "breach",
+                "WS 009": "breach"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "sabot",
+                "WS 008": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "arbalest",
+                "WS 003": "arbalest",
+                "WS 004": "arbalest"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 005": "flak"
+            }
+        }
+    ],
+    "wings": ["warthog_wing"]
+}

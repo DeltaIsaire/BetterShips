@@ -1,0 +1,25 @@
+{
+    "displayName": "Raider",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "brawler_pather",
+    "hullMods": [
+        "unstable_injector",
+        "fluxbreakers",
+        "fluxdistributor",
+        "fluxcoil"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "brawler_pather_Raider",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 001": "heavymg",
+            "WS 002": "chaingun",
+            "WS 003": "lightmg",
+            "WS 004": "lightmg"
+        }
+    }]
+}

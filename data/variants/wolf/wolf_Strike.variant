@@ -1,0 +1,41 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "wolf",
+    "hullMods": [
+        "fluxdistributor",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "wolf_Strike",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "phasebeam"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 005": "sabot",
+                "WS 006": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "ioncannon"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pdburst",
+                "WS 003": "pdburst"
+            }
+        }
+    ]
+}

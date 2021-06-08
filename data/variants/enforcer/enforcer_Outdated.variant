@@ -1,0 +1,43 @@
+{
+    "displayName": "Rocket",
+    "fluxCapacitors": 15,
+    "fluxVents": 20,
+    "hullId": "enforcer",
+    "hullMods": [
+        "missleracks",
+        "targetingunit",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "enforcer_Outdated",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "hveldriver",
+                "WS 004": "hveldriver"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "annihilator",
+                "WS 007": "annihilator",
+                "WS 008": "annihilator",
+                "WS 009": "annihilator"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 003": "flak",
+                "WS 005": "flak"
+            }
+        }
+    ]
+}

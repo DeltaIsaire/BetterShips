@@ -1,0 +1,66 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 42,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "legion",
+    "hullMods": [
+        "expanded_deck_crew",
+        "recovery_shuttles",
+        "dedicated_targeting_core",
+        "fluxdistributor",
+        "fluxbreakers",
+        "armoredweapons",
+        "autorepair"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "legion_Escort",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "hellbore",
+                "WS 001": "hellbore"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavyac",
+                "WS 005": "heavyac",
+                "WS 007": "heavyac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 014": "vulcan",
+                "WS 015": "vulcan",
+                "WS 018": "vulcan",
+                "WS 019": "vulcan",
+                "WS 020": "vulcan",
+                "WS 021": "vulcan"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "flak",
+                "WS 003": "flak"
+            }
+        }
+    ],
+    "wings": [
+        "talon_wing",
+        "talon_wing",
+        "talon_wing",
+        "talon_wing"
+    ]
+}

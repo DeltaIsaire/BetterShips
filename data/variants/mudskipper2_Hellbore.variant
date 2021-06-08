@@ -1,0 +1,21 @@
+{
+    "displayName": "Hellbore",
+    "fluxCapacitors": 3,
+    "fluxVents": 10,
+    "hullId": "mudskipper2",
+    "hullMods": [
+        "auxiliarythrusters",
+        "fluxbreakers",
+        "fluxdistributor",
+        "heavyarmor",
+        "armoredweapons"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "mudskipper2_Hellbore",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {"WS 002": "hellbore"}
+    }]
+}

@@ -1,0 +1,12 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 20,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "phantom",
+    "hullMods": ["unstable_injector"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "phantom_Elite",
+    "weaponGroups": []
+}

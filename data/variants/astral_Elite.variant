@@ -1,0 +1,65 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 15,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "astral",
+    "hullMods": [
+        "targetingunit",
+        "stabilizedshieldemitter",
+        "expanded_deck_crew",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "astral_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "gravitonbeam",
+                "WS 015": "gravitonbeam",
+                "WS 023": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 011": "squall",
+                "WS 012": "squall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "gravitonbeam",
+                "WS 024": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+                "WS 002": "pdburst",
+                "WS 003": "pdburst",
+                "WS 004": "pdlaser",
+                "WS 005": "pdlaser",
+                "WS 006": "pdburst",
+                "WS 007": "pdburst",
+                "WS 008": "pdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "longbow_wing",
+        "longbow_wing",
+        "longbow_wing"
+    ]
+}

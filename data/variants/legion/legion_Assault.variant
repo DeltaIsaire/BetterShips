@@ -1,0 +1,61 @@
+{
+    "displayName": "Heavy Assault",
+    "fluxCapacitors": 40,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "legion",
+    "hullMods": [
+        "dedicated_targeting_core",
+        "fluxbreakers",
+        "armoredweapons",
+        "autorepair",
+        "heavyarmor",
+        "reinforcedhull"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "legion_Assault",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 000": "mark9"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pilum",
+                "WS 003": "pilum",
+                "WS 004": "pilum",
+                "WS 005": "pilum",
+                "WS 007": "pilum"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "hephag"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 014": "vulcan",
+                "WS 015": "vulcan",
+                "WS 018": "vulcan",
+                "WS 019": "vulcan",
+                "WS 020": "vulcan",
+                "WS 021": "vulcan"
+            }
+        }
+    ],
+    "wings": [
+        "mining_drone_wing",
+        "mining_drone_wing",
+        "mining_drone_wing",
+        "mining_drone_wing"
+    ]
+}

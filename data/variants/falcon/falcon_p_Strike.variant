@@ -1,0 +1,50 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 19,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "falcon_p",
+    "hullMods": [
+        "missleracks",
+        "targetingunit",
+        "insulatedengine",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "falcon_p_Strike",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "typhoon",
+                "WS 008": "typhoon"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "sabot",
+                "WS 002": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "hveldriver",
+                "WS 006": "hveldriver"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "lrpdlaser",
+                "WS 010": "lrpdlaser"
+            }
+        }
+    ]
+}

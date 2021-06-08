@@ -1,0 +1,44 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 18,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "hammerhead",
+    "hullMods": [
+        "targetingunit",
+        "auxiliarythrusters"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "hammerhead_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "heavymauler"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heatseeker",
+                "WS 004": "heatseeker"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "hveldriver"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "lrpdlaser",
+                "WS 006": "lrpdlaser",
+                "WS 007": "lrpdlaser",
+                "WS 008": "lrpdlaser"
+            }
+        }
+    ]
+}

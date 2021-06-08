@@ -1,0 +1,51 @@
+{
+    "displayName": "Close Support",
+    "fluxCapacitors": 16,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "medusa",
+    "hullMods": [
+        "targetingunit",
+        "advancedoptics",
+        "fluxdistributor",
+        "hardened_subsystems"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "medusa_CS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "taclaser",
+                "WS 009": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "gravitonbeam",
+                "WS 007": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "taclaser",
+                "WS 003": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 005": "pdlaser"
+            }
+        }
+    ]
+}

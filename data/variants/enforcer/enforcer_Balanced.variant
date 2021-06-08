@@ -1,0 +1,55 @@
+{
+    "displayName": "Balanced",
+    "fluxCapacitors": 18,
+    "fluxVents": 20,
+    "hullId": "enforcer",
+    "hullMods": [
+        "targetingunit",
+        "missleracks",
+        "armoredweapons",
+        "fluxbreakers",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "enforcer_Balanced",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "harpoon",
+                "WS 009": "harpoon"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "sabot",
+                "WS 008": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "arbalest",
+                "WS 004": "arbalest"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "heavymortar"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 005": "flak"
+            }
+        }
+    ]
+}

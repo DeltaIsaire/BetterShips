@@ -1,0 +1,29 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 10,
+    "fluxVents": 9,
+    "hullId": "kite_hegemony",
+    "hullMods": [
+        "escort_package",
+        "missleracks",
+        "fluxcoil"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "kite_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "lightdualac"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "swarmer",
+                "WS 002": "swarmer"
+            }
+        }
+    ]
+}

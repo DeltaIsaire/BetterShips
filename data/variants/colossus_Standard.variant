@@ -1,0 +1,24 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 30,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "colossus",
+    "hullMods": [
+        "insulatedengine",
+        "unstable_injector"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "colossus_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 001": "vulcan",
+            "WS 002": "vulcan",
+            "WS 003": "vulcan",
+            "WS 004": "vulcan"
+        }
+    }]
+}

@@ -1,0 +1,58 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 13,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "fury",
+    "hullMods": [
+        "targetingunit",
+        "advancedoptics",
+        "pointdefenseai",
+        "turretgyros",
+        "frontemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "fury_Support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "phasebeam"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "sabotpod"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "taclaser",
+                "WS 004": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "taclaser",
+                "WS 006": "taclaser"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "taclaser",
+                "WS 008": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 000": "phasebeam"}
+        }
+    ]
+}

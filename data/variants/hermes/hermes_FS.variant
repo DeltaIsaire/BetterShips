@@ -1,0 +1,30 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 9,
+    "fluxVents": 10,
+    "hullId": "hermes",
+    "hullMods": [
+        "militarized_subsystems",
+        "assault_package",
+        "targetingunit",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "hermes_FS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightac",
+                "WS 002": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "vulcan"}
+        }
+    ]
+}

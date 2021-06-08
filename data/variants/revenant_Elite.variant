@@ -1,0 +1,12 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 30,
+    "fluxVents": 15,
+    "goalVariant": true,
+    "hullId": "revenant",
+    "hullMods": ["unstable_injector"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "revenant_Elite",
+    "weaponGroups": []
+}

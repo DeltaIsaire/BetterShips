@@ -1,0 +1,72 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 25,
+    "fluxVents": 50,
+    "hullId": "paragon",
+    "hullMods": [
+        "fluxdistributor",
+        "stabilizedshieldemitter",
+        "turretgyros",
+        "pointdefenseai",
+        "advancedoptics",
+        "frontemitter",
+        "advancedshieldemitter",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "paragon_Escort",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "gravitonbeam",
+                "WS 002": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "hil"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "taclaser",
+                "WS 010": "taclaser",
+                "WS 013": "taclaser",
+                "WS 015": "taclaser",
+                "WS 016": "taclaser",
+                "WS 019": "taclaser",
+                "WS 021": "taclaser",
+                "WS 022": "taclaser",
+                "WS 023": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "taclaser",
+                "WS 017": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+                "WS 006": "gravitonbeam",
+                "WS 007": "gravitonbeam",
+                "WS 008": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "hil"}
+        }
+    ]
+}

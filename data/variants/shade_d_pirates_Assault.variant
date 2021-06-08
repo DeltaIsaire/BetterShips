@@ -1,0 +1,28 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "shade_d_pirates",
+    "hullMods": [
+        "fluxcoil",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "shade_d_pirates_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 004": "amblaster"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "irpulse",
+                "WS 002": "irpulse"
+            }
+        }
+    ]
+}

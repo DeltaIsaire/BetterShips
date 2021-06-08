@@ -1,0 +1,52 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 24,
+    "fluxVents": 30,
+    "hullId": "falcon_xiv",
+    "hullMods": [
+        "turretgyros",
+        "targetingunit",
+        "fluxdistributor",
+        "fluxbreakers",
+        "armoredweapons"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "falcon_xiv_Escort",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heavyac",
+                "WS 008": "heavyac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "swarmer",
+                "WS 002": "swarmer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "phasebeam",
+                "WS 006": "phasebeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 009": "pdburst",
+                "WS 010": "pdburst"
+            }
+        }
+    ]
+}

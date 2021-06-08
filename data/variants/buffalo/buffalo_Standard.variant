@@ -1,0 +1,19 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 20,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "buffalo",
+    "hullMods": [
+        "insulatedengine",
+        "unstable_injector"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "buffalo_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {"WS 001": "pdlaser"}
+    }]
+}

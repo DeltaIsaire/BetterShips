@@ -1,0 +1,33 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 10,
+    "fluxVents": 2,
+    "hullId": "mercury",
+    "hullMods": [
+        "missleracks",
+        "militarized_subsystems",
+        "escort_package",
+        "fluxbreakers",
+        "insulatedengine"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "mercury_FS",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "harpoon"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "sabot"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "lrpdlaser"}
+        }
+    ]
+}

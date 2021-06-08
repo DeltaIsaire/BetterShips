@@ -1,0 +1,59 @@
+{
+    "displayName": "Pirate",
+    "fluxCapacitors": 23,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "colossus3",
+    "hullMods": [
+        "recovery_shuttles",
+        "targetingunit",
+        "militarized_subsystems",
+        "assault_package",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "colossus3_Pirate",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "lightac",
+                "WS 014": "lightac",
+                "WS 015": "lightac",
+                "WS 016": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "lightag",
+                "WS 012": "lightag"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightmg",
+                "WS 002": "lightmg",
+                "WS 003": "lightmg",
+                "WS 004": "lightmg"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "vulcan",
+                "WS 010": "vulcan"
+            }
+        }
+    ],
+    "wings": [
+        "broadsword_wing",
+        "broadsword_wing"
+    ]
+}

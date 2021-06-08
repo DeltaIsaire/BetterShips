@@ -1,0 +1,69 @@
+{
+    "displayName": "Balanced",
+    "fluxCapacitors": 19,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "eagle",
+    "hullMods": [
+        "targetingunit",
+        "turretgyros",
+        "fluxdistributor",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "eagle_Balanced",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "hveldriver",
+                "WS 008": "hveldriver"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "swarmer",
+                "WS 002": "swarmer"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 013": "heavymauler"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "ionbeam"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+                "WS 006": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "lrpdlaser",
+                "WS 011": "lrpdlaser",
+                "WS 012": "lrpdlaser"
+            }
+        }
+    ]
+}

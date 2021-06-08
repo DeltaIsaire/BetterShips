@@ -1,0 +1,45 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 13,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "drover",
+    "hullMods": [
+        "expanded_deck_crew",
+        "targetingunit",
+        "extendedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "drover_Strike",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "sabot",
+                "WS 005": "sabot"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "harpoon",
+                "WS 004": "harpoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "railgun",
+                "WS 001": "railgun"
+            }
+        }
+    ],
+    "wings": [
+        "dagger_wing",
+        "longbow_wing"
+    ]
+}

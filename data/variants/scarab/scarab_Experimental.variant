@@ -1,0 +1,43 @@
+{
+    "displayName": "Experimental",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "scarab",
+    "hullMods": [
+        "fluxdistributor",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "frontemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "scarab_Experimental",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "irpulse",
+                "WS 005": "irpulse",
+                "WS 010": "irpulse"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "sabot",
+                "WS 003": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "pdlaser",
+                "WS 009": "pdlaser"
+            }
+        }
+    ]
+}

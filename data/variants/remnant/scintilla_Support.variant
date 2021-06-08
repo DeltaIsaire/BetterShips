@@ -1,0 +1,51 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 20,
+    "fluxVents": 17,
+    "goalVariant": true,
+    "hullId": "scintilla",
+    "hullMods": [
+        "expanded_deck_crew",
+        "missleracks",
+        "fluxbreakers",
+        "frontemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "scintilla_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "sabotpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "swarmer",
+                "WS 008": "swarmer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "irpulse",
+                "WS 001": "irpulse"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "lux_wing",
+        "lux_wing"
+    ]
+}

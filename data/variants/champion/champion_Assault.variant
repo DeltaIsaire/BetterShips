@@ -1,0 +1,50 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 19,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "champion",
+    "hullMods": [
+        "targetingunit",
+        "missleracks",
+        "fluxdistributor",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "champion_Assault",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "hil"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "locust"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "heavyac",
+                "WS 007": "heavyac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "pdlaser",
+                "WS 001": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 005": "pdlaser",
+                "WS 010": "pdlaser",
+                "WS 011": "pdlaser"
+            }
+        }
+    ]
+}

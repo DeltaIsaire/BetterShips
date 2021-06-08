@@ -1,0 +1,57 @@
+{
+    "displayName": "Balanced",
+    "fluxCapacitors": 20,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "apogee",
+    "hullMods": [
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "missleracks",
+        "magazines"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "apogee_Balanced",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "autopulse"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "locust"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "sabot"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "taclaser",
+                "WS 007": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pulselaser",
+                "WS 002": "pulselaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser"
+            }
+        }
+    ]
+}

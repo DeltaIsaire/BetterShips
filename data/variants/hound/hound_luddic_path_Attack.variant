@@ -1,0 +1,28 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 0,
+    "fluxVents": 9,
+    "hullId": "hound_luddic_path",
+    "hullMods": [
+        "fluxdistributor",
+        "auxiliarythrusters",
+        "insulatedengine",
+        "fluxbreakers",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "hound_luddic_path_Attack",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "chaingun"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "lightdualmg"}
+        }
+    ]
+}

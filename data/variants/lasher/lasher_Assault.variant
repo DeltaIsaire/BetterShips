@@ -1,0 +1,47 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 9,
+    "fluxVents": 10,
+    "hullId": "lasher",
+    "hullMods": [
+        "targetingunit",
+        "fluxdistributor",
+        "missleracks",
+        "armoredweapons",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "lasher_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightmortar",
+                "WS 003": "lightmortar"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "sabot",
+                "WS 004": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 007": "lightdualac"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "vulcan",
+                "WS 006": "vulcan"
+            }
+        }
+    ]
+}

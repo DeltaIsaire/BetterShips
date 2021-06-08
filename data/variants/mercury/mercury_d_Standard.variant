@@ -1,0 +1,25 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 6,
+    "hullId": "mercury_d",
+    "hullMods": [
+        "insulatedengine",
+        "unstable_injector",
+        "fluxcoil",
+        "fluxbreakers",
+        "extendedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "mercury_d_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 001": "pdlaser",
+            "WS 002": "pdlaser",
+            "WS 003": "pdlaser"
+        }
+    }]
+}

@@ -1,0 +1,30 @@
+{
+    "displayName": "Raider",
+    "fluxCapacitors": 10,
+    "fluxVents": 3,
+    "hullId": "kite_luddic_path",
+    "hullMods": [
+        "missleracks",
+        "fluxbreakers",
+        "insulatedengine",
+        "unstable_injector"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "kite_luddic_path_Raider",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "lightdualac"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "annihilator",
+                "WS 002": "annihilator"
+            }
+        }
+    ]
+}

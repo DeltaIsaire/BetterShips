@@ -1,0 +1,23 @@
+{
+    "displayName": "Point Defense",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "hullId": "mercury",
+    "hullMods": [
+        "militarized_subsystems",
+        "escort_package",
+        "magazines"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "mercury_PD",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 001": "pdburst",
+            "WS 002": "pdburst",
+            "WS 003": "pdburst"
+        }
+    }]
+}

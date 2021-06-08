@@ -1,0 +1,52 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 19,
+    "fluxVents": 30,
+    "hullId": "falcon_xiv",
+    "hullMods": [
+        "targetingunit",
+        "turretgyros",
+        "armoredweapons",
+        "insulatedengine",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "falcon_xiv_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "hveldriver",
+                "WS 008": "hveldriver"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heatseeker",
+                "WS 002": "heatseeker"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+                "WS 006": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 009": "pdburst",
+                "WS 010": "pdburst"
+            }
+        }
+    ]
+}

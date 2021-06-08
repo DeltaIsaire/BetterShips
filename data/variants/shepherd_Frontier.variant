@@ -1,0 +1,30 @@
+{
+    "displayName": "Frontier",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "shepherd",
+    "hullMods": [
+        "expanded_deck_crew",
+        "militarized_subsystems",
+        "escort_package",
+        "fluxbreakers",
+        "insulatedengine"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "shepherd_Frontier",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "taclaser"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 007": "vulcan"}
+        }
+    ],
+    "wings": []
+}

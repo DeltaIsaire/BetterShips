@@ -1,0 +1,37 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 20,
+    "fluxVents": 15,
+    "hullId": "drover",
+    "hullMods": [
+        "missleracks",
+        "reinforcedhull"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "drover_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "lightdualac",
+                "WS 001": "lightdualac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "harpoon",
+                "WS 003": "harpoon",
+                "WS 004": "harpoon",
+                "WS 005": "harpoon"
+            }
+        }
+    ],
+    "wings": [
+        "dagger_wing",
+        "broadsword_wing"
+    ]
+}

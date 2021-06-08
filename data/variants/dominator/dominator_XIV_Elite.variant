@@ -1,0 +1,67 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 16,
+    "fluxVents": 30,
+    "hullId": "dominator_xiv",
+    "hullMods": [
+        "targetingunit",
+        "missleracks",
+        "armoredweapons",
+        "autorepair",
+        "fluxbreakers",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "dominator_XIV_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 012": "mark9"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 014": "sabotpod",
+                "WS 015": "sabotpod",
+                "WS 016": "sabotpod"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 013": "hephag"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightac",
+                "WS 007": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightac",
+                "WS 005": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "vulcan",
+                "WS 004": "vulcan",
+                "WS 006": "vulcan",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 010": "flak",
+                "WS 011": "flak"
+            }
+        }
+    ]
+}

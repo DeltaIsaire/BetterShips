@@ -1,0 +1,56 @@
+{
+    "displayName": "Assault Support",
+    "fluxCapacitors": 19,
+    "fluxVents": 30,
+    "hullId": "aurora",
+    "hullMods": [
+        "targetingunit",
+        "magazines",
+        "missleracks",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "aurora_Assault_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "heavyblaster"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "sabot",
+                "WS 011": "sabot",
+                "WS 012": "sabot",
+                "WS 013": "sabot"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "sabotpod"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "ionpulser",
+                "WS 008": "ionpulser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 005": "pdlaser"
+            }
+        }
+    ]
+}

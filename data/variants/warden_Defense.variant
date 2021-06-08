@@ -1,0 +1,29 @@
+{
+    "displayName": "Defense",
+    "fluxCapacitors": 4,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "warden",
+    "hullMods": [
+        "fluxbreakers",
+        "armoredweapons",
+        "insulatedengine",
+        "heavyarmor",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "warden_Defense",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 001": "heavyac"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "lightmortar"}
+        }
+    ]
+}

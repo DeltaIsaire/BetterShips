@@ -1,0 +1,31 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 9,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "mercury",
+    "hullMods": [
+        "militarized_subsystems",
+        "assault_package",
+        "fluxdistributor",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "mercury_Attack",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "irpulse",
+                "WS 002": "irpulse"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "pdlaser"}
+        }
+    ]
+}

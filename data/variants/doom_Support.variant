@@ -1,0 +1,53 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 12,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "doom",
+    "hullMods": [
+        "fluxbreakers",
+        "targetingunit",
+        "magazines"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "doom_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightneedler",
+                "WS 004": "lightneedler",
+                "WS 005": "lightneedler",
+                "WS 006": "lightneedler"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "typhoon",
+                "WS 002": "typhoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "ionpulser",
+                "WS 008": "ionpulser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pdburst",
+                "WS 010": "pdburst",
+                "WS 011": "pdburst",
+                "WS 012": "pdburst"
+            }
+        }
+    ]
+}

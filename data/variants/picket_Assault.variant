@@ -1,0 +1,33 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 1,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "picket",
+    "hullMods": [
+        "fluxdistributor",
+        "fluxbreakers",
+        "armoredweapons",
+        "heavyarmor",
+        "insulatedengine",
+        "blast_doors"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "picket_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightac",
+                "WS 003": "lightac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "lightmortar"}
+        }
+    ]
+}

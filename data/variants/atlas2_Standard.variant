@@ -1,0 +1,63 @@
+{
+    "displayName": "Combat",
+    "fluxCapacitors": 27,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "atlas2",
+    "hullMods": [
+        "dedicated_targeting_core",
+        "militarized_subsystems",
+        "assault_package",
+        "missleracks",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "atlas2_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "hellbore",
+                "WS 009": "hellbore"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 012": "locust",
+                "WS 013": "locust"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "heavyac",
+                "WS 018": "heavyac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "lightac",
+                "WS 011": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "vulcan",
+                "WS 002": "vulcan",
+                "WS 014": "flak",
+                "WS 017": "flak",
+                "WS 020": "vulcan",
+                "WS 021": "vulcan"
+            }
+        }
+    ]
+}

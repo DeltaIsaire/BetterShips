@@ -1,0 +1,14 @@
+{
+    "displayName": "Stock",
+    "fluxCapacitors": 10,
+    "fluxVents": 2,
+    "hullId": "kite_original",
+    "hullMods": [
+        "insulatedengine",
+        "unstable_injector"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "kite_original_Stock",
+    "weaponGroups": []
+}

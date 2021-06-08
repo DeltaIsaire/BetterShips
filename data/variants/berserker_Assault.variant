@@ -1,0 +1,40 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 0,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "berserker",
+    "hullMods": [
+        "heavyarmor",
+        "armoredweapons",
+        "fluxbreakers",
+        "auxiliarythrusters",
+        "fluxdistributor",
+        "insulatedengine",
+        "blast_doors"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "berserker_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "arbalest",
+                "WS 005": "arbalest",
+                "WS 007": "arbalest"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightmortar",
+                "WS 002": "lightmortar",
+                "WS 006": "lightmortar",
+                "WS 008": "lightmortar"
+            }
+        }
+    ]
+}

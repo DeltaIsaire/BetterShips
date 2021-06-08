@@ -1,0 +1,32 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "gremlin_d_pirates",
+    "hullMods": [
+        "missleracks",
+        "fluxdistributor",
+        "fluxcoil"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "gremlin_d_pirates_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "lightag",
+                "WS 001": "lightag"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "hammer",
+                "WS 003": "hammer"
+            }
+        }
+    ]
+}

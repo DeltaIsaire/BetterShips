@@ -1,0 +1,53 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 21,
+    "fluxVents": 21,
+    "hullId": "aurora",
+    "hullMods": [
+        "targetingunit",
+        "turretgyros",
+        "frontemitter",
+        "fluxbreakers",
+        "pointdefenseai"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "aurora_Escort",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "pulselaser",
+                "WS 008": "pulselaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "salamanderpod",
+                "WS 010": "heatseeker",
+                "WS 011": "heatseeker",
+                "WS 012": "heatseeker",
+                "WS 013": "heatseeker"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lrpdlaser",
+                "WS 002": "lrpdlaser",
+                "WS 003": "lrpdlaser",
+                "WS 004": "lrpdlaser",
+                "WS 005": "lrpdlaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "heavyburst"}
+        }
+    ]
+}

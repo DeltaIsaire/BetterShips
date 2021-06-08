@@ -1,0 +1,30 @@
+{
+    "displayName": "Raider",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "hullId": "kite_pirates",
+    "hullMods": [
+        "militarized_subsystems",
+        "escort_package",
+        "targetingunit",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "kite_pirates_Raider",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "lightdualac"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "swarmer",
+                "WS 002": "swarmer"
+            }
+        }
+    ]
+}

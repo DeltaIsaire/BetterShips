@@ -1,0 +1,84 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 39,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "onslaught",
+    "hullMods": [
+        "targetingunit",
+        "missleracks",
+        "fluxdistributor",
+        "fluxbreakers",
+        "armoredweapons",
+        "autorepair"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "onslaught_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 016": "tpc",
+                "WS 017": "tpc"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 021": "annihilatorpod",
+                "WS 022": "annihilatorpod",
+                "WS 023": "annihilatorpod",
+                "WS 024": "annihilatorpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "mark9",
+                "WS 020": "mark9"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 019": "hellbore"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavyac",
+                "WS 003": "heavyac",
+                "WS 007": "heavyac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "heavymg",
+                "WS 015": "heavymg"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "vulcan",
+                "WS 004": "vulcan",
+                "WS 005": "vulcan",
+                "WS 006": "vulcan",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 010": "flak",
+                "WS 011": "flak",
+                "WS 012": "dualflak",
+                "WS 013": "dualflak"
+            }
+        }
+    ]
+}

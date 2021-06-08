@@ -1,0 +1,23 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "hermes_d",
+    "hullMods": [
+        "insulatedengine",
+        "unstable_injector",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "hermes_d_Standard",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 001": "lightdualmg",
+            "WS 002": "lightdualmg",
+            "WS 003": "lightdualmg"
+        }
+    }]
+}

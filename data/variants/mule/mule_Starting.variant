@@ -1,0 +1,43 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 15,
+    "fluxVents": 20,
+    "hullId": "mule",
+    "hullMods": [
+        "insulatedengine",
+        "fluxdistributor",
+        "blast_doors",
+        "armoredweapons"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "mule_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "heavymortar"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heatseeker",
+                "WS 002": "heatseeker"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightdualac",
+                "WS 006": "lightdualac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "vulcan"}
+        }
+    ]
+}

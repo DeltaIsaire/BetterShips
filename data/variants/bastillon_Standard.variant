@@ -1,0 +1,48 @@
+{
+    "displayName": "Siege",
+    "fluxCapacitors": 2,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "bastillon",
+    "hullMods": [
+        "heavyarmor",
+        "armoredweapons",
+        "fluxbreakers",
+        "turretgyros",
+        "fluxdistributor",
+        "insulatedengine"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "bastillon_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightag",
+                "WS 002": "lightag"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "vulcan",
+                "WS 006": "vulcan",
+                "WS 014": "vulcan",
+                "WS 015": "vulcan"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightdualmg",
+                "WS 004": "lightdualmg",
+                "WS 007": "lightdualmg",
+                "WS 008": "lightdualmg"
+            }
+        }
+    ]
+}

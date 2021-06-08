@@ -1,0 +1,69 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 30,
+    "fluxVents": 30,
+    "hullId": "eagle_xiv",
+    "hullMods": [
+        "targetingunit",
+        "fluxbreakers",
+        "armoredweapons",
+        "turretgyros",
+        "fluxdistributor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "eagle_xiv_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heavyac",
+                "WS 008": "heavyac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "sabot",
+                "WS 002": "sabot"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 013": "heavymortar"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "gravitonbeam"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "pulselaser",
+                "WS 006": "pulselaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "lrpdlaser",
+                "WS 011": "lrpdlaser",
+                "WS 012": "lrpdlaser"
+            }
+        }
+    ]
+}

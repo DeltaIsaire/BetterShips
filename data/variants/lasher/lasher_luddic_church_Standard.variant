@@ -1,0 +1,42 @@
+{
+    "displayName": "CGR Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "hullId": "lasher_luddic_church",
+    "hullMods": [
+        "targetingunit",
+        "armoredweapons",
+        "turretgyros",
+        "heavyarmor"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "lasher_luddic_church_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightdualac",
+                "WS 003": "lightdualac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "breach",
+                "WS 004": "breach"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "vulcan",
+                "WS 006": "vulcan",
+                "WS 007": "vulcan"
+            }
+        }
+    ]
+}

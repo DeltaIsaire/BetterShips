@@ -1,0 +1,83 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 43,
+    "fluxVents": 50,
+    "hullId": "onslaught_xiv",
+    "hullMods": [
+        "targetingunit",
+        "fluxbreakers",
+        "heavyarmor",
+        "armoredweapons",
+        "autorepair",
+        "blast_doors"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "onslaught_xiv_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 016": "tpc",
+                "WS 017": "tpc"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 021": "breachpod",
+                "WS 022": "breachpod",
+                "WS 023": "breachpod",
+                "WS 024": "breachpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "mark9",
+                "WS 020": "mark9"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 019": "mark9"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "heavymauler",
+                "WS 013": "heavymauler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 002": "vulcan",
+                "WS 003": "flak",
+                "WS 004": "vulcan",
+                "WS 005": "vulcan",
+                "WS 006": "vulcan",
+                "WS 007": "flak",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 014": "flak",
+                "WS 015": "flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "heavymg",
+                "WS 011": "heavymg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 9,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "centurion",
+    "hullMods": [
+        "targetingunit",
+        "fluxbreakers",
+        "frontemitter",
+        "heavyarmor",
+        "fluxdistributor",
+        "turretgyros"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "centurion_Assault",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightmortar",
+                "WS 002": "lightmortar"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "breach"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightac",
+                "WS 005": "lightac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "pdlaser",
+                "WS 007": "pdlaser"
+            }
+        }
+    ]
+}
